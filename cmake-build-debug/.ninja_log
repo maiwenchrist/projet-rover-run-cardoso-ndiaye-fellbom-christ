@@ -1,0 +1,8 @@
+# ninja log v5
+0	148	7514627406057775	CMakeFiles/untitled1.dir/loc.c.obj	c1542c863c85d86e
+24	160	7514627406207763	CMakeFiles/untitled1.dir/moves.c.obj	c3d4c98d49427fb2
+13	164	7514627406257774	CMakeFiles/untitled1.dir/main.c.obj	768d826307b937f8
+46	199	7514627406609992	CMakeFiles/untitled1.dir/queue.c.obj	40709ba6860c2ea6
+59	199	7514627406620091	CMakeFiles/untitled1.dir/stack.c.obj	b03bd46cf7717147
+35	207	7514627406703426	CMakeFiles/untitled1.dir/map.c.obj	30c7b343a5aa88ab
+207	388	7514627408437052	untitled1.exe	97262e537c4cab2d
