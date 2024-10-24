@@ -3,8 +3,14 @@ project(untitled1 C)
 
 set(CMAKE_C_STANDARD 11)
 
-file(GLOB_RECURSE SOURCES "${CMAKE_CURRENT_SOURCE_DIR}/src/*.c")
-
-include_directories(include/)
-
-add_executable(untitled1 ${SOURCES})
+add_executable(untitled1 main.c
+        loc.c
+        loc.h
+        moves.c
+        moves.h
+        map.c
+        map.h
+        queue.c
+        queue.h
+        stack.c
+        stack.h)
