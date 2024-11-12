@@ -21,7 +21,6 @@ typedef struct s_tree
 } t_tree ;
 
 t_node* create_node(int val, int nb_sons);
-t_tree create_tree()
+t_tree create_tree();
 
 #endif //UNTITLED1_CHEMIN_H
-
