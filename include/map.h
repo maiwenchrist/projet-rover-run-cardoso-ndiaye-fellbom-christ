@@ -1,7 +1,7 @@
 //
 // Created by flasque on 19/10/2024.
 //
-
+#include "loc.h"
 #ifndef UNTITLED1_MAP_H
 #define UNTITLED1_MAP_H
 
@@ -54,5 +54,7 @@ t_map createMapFromFile(char *);
  * @param map : the map to display
  */
 void displayMap(t_map);
+
+t_position getBaseStationPosition(t_map map);
 
 #endif //UNTITLED1_MAP_H

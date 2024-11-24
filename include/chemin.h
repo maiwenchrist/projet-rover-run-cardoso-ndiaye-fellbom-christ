@@ -21,6 +21,7 @@ typedef struct s_tree
 } t_tree ;
 
 t_node* create_node(int val, int nb_sons);
-t_tree create_tree();
-
+t_tree create_Empty_tree();
+t_tree chemin_tree();
+void display_tree(t_tree tree);
 #endif //UNTITLED1_CHEMIN_H
